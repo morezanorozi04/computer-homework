@@ -23,6 +23,12 @@ div:hover {
       rgba(220, 234, 248, 0.792)
     );
 }
+
+.music-name {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+
 img {
     align-self: center;
     height: 190px;
@@ -40,8 +46,23 @@ img:hover {
 .app-name {
     text-align: center;
     padding-top: 15px;
+
     font-size: x-large;
     color: azure;
     text-shadow: 2px 2px 5px black;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
+}
+.rapper-name {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    text-align: center;
+    margin-top: auto;
+    font-size: larger;
+    text-shadow: 1px 1px 5px;
+    color: #666666;
+}
+.rapper-name:hover {
+    transition: 0.3s;
+    cursor: pointer;
+    color: #2e2e2e;
 }
