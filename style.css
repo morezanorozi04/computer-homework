@@ -62,14 +62,14 @@ button:hover {
     text-align: center;
 
 img {
-    align-self: center;
-    height: 190px;
-    width: 190px;
+    
+    height: 200px;
+    width: 200px;
     border-radius: 5px;
     margin: auto;
-    margin-top: auto;
-    margin-bottom: 0px;
-    margin-left: 40px;
+    margin-top: 5px;
+    
+    
 }
 img:hover {
     box-shadow: 1px 1px 5px black;
