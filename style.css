@@ -23,3 +23,31 @@ div:hover {
       rgba(220, 234, 248, 0.792)
     );
 }
+pre {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-size: large;
+    color: azure;
+    text-shadow: 2px 2px 5px black;
+}
+  
+input {
+    margin-top: auto;
+    margin-left: 12px;
+    width: 250px;
+}
+ul {
+    display: block;
+}
+li {
+    display: inline-block;
+    margin-left: 12px;
+}
+button {
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+button:hover {
+    border-color: #bebebe;
+}
